@@ -1,3 +1,3 @@
 # daily_musings
 A flutter app to take your daily contemplations and musings.
-![Daily Musing](./dailymusing.png)
+![Daily Musing](./DailyMusing.png)
